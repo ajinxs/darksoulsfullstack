@@ -5,11 +5,11 @@ Such as React, Node, Express, Other Frontend and Backend libraries, MongoDB as d
 
 # Future Funtionality:
 
-Sign-in for members
-Shopping Cart (able to empty cart)
-Payment functionality
-Buy Timer
-Database
+Sign-in for members,
+Shopping Cart (able to empty cart),
+Payment functionality,
+Buy Timer,
+Database,
 
 # How to Run Project
 Clone the project and download it in your local.
